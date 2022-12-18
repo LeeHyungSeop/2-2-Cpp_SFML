@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ihyeongseob/Desktop/인천대/2학년/2학기/객체기반SW설계/중간고사_SFML",
+      "program": "/Users/ihyeongseob/Desktop/인천대/2학년/2학기/객체기반SW설계/중간고사_SFML/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
